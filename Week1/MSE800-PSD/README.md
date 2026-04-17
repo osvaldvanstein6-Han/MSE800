@@ -9,4 +9,3 @@
 4. Then the user could get the power result : power(x,y)= x ** y
 
 5. 
-   
